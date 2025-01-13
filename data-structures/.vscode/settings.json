@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "element-type.h": "c",
+        "memory_resource": "c",
+        "queue": "c",
+        "stack": "c",
+        "deque": "c",
+        "map": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "__bit_reference": "cpp",
+        "__node_handle": "cpp",
+        "bitset": "cpp",
+        "__memory": "cpp",
+        "limits": "cpp",
+        "locale": "cpp",
+        "optional": "cpp",
+        "ratio": "cpp",
+        "tuple": "cpp"
+    }
+}
